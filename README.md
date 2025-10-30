@@ -11,7 +11,9 @@ Let's collaborate and learn together to make the digital world safer! 💻
 ## :computer: Languages and Tools
 
  <p>
-	
+	<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/IDA%20Pro-000000?style=flat-square&logo=hex-rays&logoColor=white" alt="IDA Pro">
+<img src="https://img.shields.io/badge/Ghidra-6DB33F?style=flat-square&logo=ghidra&logoColor=white" alt="Ghidra">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="c">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="c++">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="python">
